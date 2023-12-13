@@ -1,0 +1,79 @@
+SG_Portfolio :: 2023-12-09 15:39:36
+-----------------------
+Stock       9CI
+Hold Price  2.823
+Curr Price  3.1
+% change    9.81❇
+-----------------------
+Stock       HMN
+Hold Price  0.1
+Curr Price  0.96
+% change    860.0❇
+-----------------------
+Stock       C38U
+Hold Price  2
+Curr Price  1.9
+% change    -5.0‼
+-----------------------
+Stock       D05
+Hold Price  20
+Curr Price  31.6
+% change    58.0❇
+-----------------------
+Stock       BN4
+Hold Price  6.38
+Curr Price  6.77
+% change    6.11❇
+-----------------------
+Stock       AJBU
+Hold Price  2
+Curr Price  1.97
+% change    -1.5‼
+-----------------------
+Stock       K71U
+Hold Price  1
+Curr Price  0.88
+% change    -12.0‼
+-----------------------
+Stock       N2IU
+Hold Price  1.656
+Curr Price  1.42
+% change    -14.25‼
+-----------------------
+Stock       O39
+Hold Price  8.9
+Curr Price  12.65
+% change    42.13❇
+-----------------------
+Stock       S51
+Hold Price  0.1
+Curr Price  0.11
+% change    10.0❇
+-----------------------
+Stock       OV8
+Hold Price  1.633
+Curr Price  1.58
+% change    -3.25‼
+-----------------------
+Stock       C6L
+Hold Price  3.85
+Curr Price  6.38
+% change    65.71❇
+-----------------------
+Stock       YQ7B
+Hold Price  1
+-----------------------
+Stock       D01
+Hold Price  4.24
+Curr Price  2.26
+% change    -46.7‼
+-----------------------
+Stock       O87
+Hold Price  111.148
+Curr Price  187.89
+% change    69.04❇
+-----------------------
+Stock       CMOU
+Hold Price  0.24
+Curr Price  0.28
+% change    16.67❇

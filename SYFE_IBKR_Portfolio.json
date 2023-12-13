@@ -1,0 +1,295 @@
+{
+    "status": 200,
+    "message": "holdings",
+    "timestamp": "2023-11-22T18:32:12+05:30",
+    "data": [
+ {
+   "tradingSymbol": "AAPL",
+   "holdPrice": 151.71,
+   "invstQty": 14.74,
+   "CURRENT PRICE": "",
+   "% CHANGE": "",
+   "BROKER": "SYFE",
+   "exchange": "Nasdaq"
+ },
+ {
+   "tradingSymbol": "AMZN",
+   "holdPrice": 118.71,
+   "invstQty": 5.17,
+   "CURRENT PRICE": "",
+   "% CHANGE": "",
+   "BROKER": "SYFE",
+   "exchange": "Nasdaq"
+ },
+ {
+   "tradingSymbol": "ARKG",
+   "holdPrice": 35.18,
+   "invstQty": 200,
+   "CURRENT PRICE": "",
+   "% CHANGE": "",
+   "BROKER": "SYFE",
+   "exchange": "Nasdaq"
+ },
+ {
+   "tradingSymbol": "CLR",
+   "holdPrice": 0.848,
+   "invstQty": 1171,
+   "CURRENT PRICE": "",
+   "% CHANGE": "",
+   "BROKER": "SYFE",
+   "exchange": "SI"
+ },
+ {
+   "tradingSymbol": "COIN",
+   "holdPrice": 49.75,
+   "invstQty": 20,
+   "CURRENT PRICE": "",
+   "% CHANGE": "",
+   "BROKER": "SYFE",
+   "exchange": "Nasdaq"
+ },
+ {
+   "tradingSymbol": "DIS",
+   "holdPrice": 98.88,
+   "invstQty": 12,
+   "CURRENT PRICE": "",
+   "% CHANGE": "",
+   "BROKER": "SYFE",
+   "exchange": "Nasdaq"
+ },
+ {
+   "tradingSymbol": "GOOG",
+   "holdPrice": 121.33,
+   "invstQty": 4.285,
+   "CURRENT PRICE": "",
+   "% CHANGE": "",
+   "BROKER": "SYFE",
+   "exchange": "Nasdaq"
+ },
+ {
+   "tradingSymbol": "META",
+   "holdPrice": 94.98,
+   "invstQty": 1.916,
+   "CURRENT PRICE": "",
+   "% CHANGE": "",
+   "BROKER": "SYFE",
+   "exchange": "Nasdaq"
+ },
+ {
+   "tradingSymbol": "MSFT",
+   "holdPrice": 279.35,
+   "invstQty": 4.714,
+   "CURRENT PRICE": "",
+   "% CHANGE": "",
+   "BROKER": "SYFE",
+   "exchange": "Nasdaq"
+ },
+ {
+   "tradingSymbol": "NFLX",
+   "holdPrice": 166.89,
+   "invstQty": 16,
+   "CURRENT PRICE": "",
+   "% CHANGE": "",
+   "BROKER": "SYFE",
+   "exchange": "Nasdaq"
+ },
+ {
+   "tradingSymbol": "NVDA",
+   "holdPrice": 300.25,
+   "invstQty": 1.732,
+   "CURRENT PRICE": "",
+   "% CHANGE": "",
+   "BROKER": "SYFE",
+   "exchange": "Nasdaq"
+ },
+ {
+   "tradingSymbol": "RBLX",
+   "holdPrice": 26.17,
+   "invstQty": 24.053,
+   "CURRENT PRICE": "",
+   "% CHANGE": "",
+   "BROKER": "SYFE",
+   "exchange": "Nasdaq"
+ },
+ {
+   "tradingSymbol": "TQQQ",
+   "holdPrice": 31.01,
+   "invstQty": 80,
+   "CURRENT PRICE": "",
+   "% CHANGE": "",
+   "BROKER": "SYFE",
+   "exchange": "Nasdaq"
+ },
+ {
+   "tradingSymbol": "TSLA",
+   "holdPrice": 229.79,
+   "invstQty": 7,
+   "CURRENT PRICE": "",
+   "% CHANGE": "",
+   "BROKER": "SYFE",
+   "exchange": "Nasdaq"
+ },
+ {
+   "tradingSymbol": "KWEB",
+   "holdPrice": 67.28,
+   "invstQty": 150,
+   "CURRENT PRICE": "",
+   "% CHANGE": "",
+   "BROKER": "IBKR",
+   "exchange": "Nasdaq"
+ },
+ {
+   "tradingSymbol": "GRAB",
+   "holdPrice": 10.82,
+   "invstQty": 500,
+   "CURRENT PRICE": "",
+   "% CHANGE": "",
+   "BROKER": "IBKR",
+   "exchange": "Nasdaq"
+ },
+ {
+   "tradingSymbol": "DIS",
+   "holdPrice": 182.6,
+   "invstQty": 28,
+   "CURRENT PRICE": "",
+   "% CHANGE": "",
+   "BROKER": "IBKR",
+   "exchange": "Nasdaq"
+ },
+ {
+   "tradingSymbol": "LCID",
+   "holdPrice": 26.35,
+   "invstQty": 50,
+   "CURRENT PRICE": "",
+   "% CHANGE": "",
+   "BROKER": "IBKR",
+   "exchange": "Nasdaq"
+ },
+ {
+   "tradingSymbol": "SOFI",
+   "holdPrice": 17.91,
+   "invstQty": 100,
+   "CURRENT PRICE": "",
+   "% CHANGE": "",
+   "BROKER": "IBKR",
+   "exchange": "Nasdaq"
+ },
+ {
+   "tradingSymbol": "ARKK",
+   "holdPrice": 120.88,
+   "invstQty": 7,
+   "CURRENT PRICE": "",
+   "% CHANGE": "",
+   "BROKER": "IBKR",
+   "exchange": "Nasdaq"
+ },
+ {
+   "tradingSymbol": "PLTR",
+   "holdPrice": 24.52,
+   "invstQty": 100,
+   "CURRENT PRICE": "",
+   "% CHANGE": "",
+   "BROKER": "IBKR",
+   "exchange": "Nasdaq"
+ },
+ {
+   "tradingSymbol": "CENN",
+   "holdPrice": 6.89,
+   "invstQty": 33,
+   "CURRENT PRICE": "",
+   "% CHANGE": "",
+   "BROKER": "IBKR",
+   "exchange": "Nasdaq"
+ },
+ {
+   "tradingSymbol": "SE",
+   "holdPrice": 152.29,
+   "invstQty": 2,
+   "CURRENT PRICE": "",
+   "% CHANGE": "",
+   "BROKER": "IBKR",
+   "exchange": "Nasdaq"
+ },
+ {
+   "tradingSymbol": "TQQQ",
+   "holdPrice": 59.85,
+   "invstQty": 10,
+   "CURRENT PRICE": "",
+   "% CHANGE": "",
+   "BROKER": "IBKR",
+   "exchange": "Nasdaq"
+ },
+ {
+   "tradingSymbol": "GDLC",
+   "holdPrice": 27.21,
+   "invstQty": 10,
+   "CURRENT PRICE": "",
+   "% CHANGE": "",
+   "BROKER": "IBKR",
+   "exchange": "Nasdaq"
+ },
+ {
+   "tradingSymbol": "SQQQ",
+   "holdPrice": 50.5,
+   "invstQty": 2,
+   "CURRENT PRICE": "",
+   "% CHANGE": "",
+   "BROKER": "IBKR",
+   "exchange": "Nasdaq"
+ },
+ {
+   "tradingSymbol": "BITO",
+   "holdPrice": 31.67,
+   "invstQty": 5,
+   "CURRENT PRICE": "",
+   "% CHANGE": "",
+   "BROKER": "IBKR",
+   "exchange": "Nasdaq"
+ },
+ {
+   "tradingSymbol": "F",
+   "holdPrice": 11.23,
+   "invstQty": 52,
+   "CURRENT PRICE": "",
+   "% CHANGE": "",
+   "BROKER": "IBKR",
+   "exchange": "Nasdaq"
+ },
+ {
+   "tradingSymbol": "INDA",
+   "holdPrice": 44.44,
+   "invstQty": 2,
+   "CURRENT PRICE": "",
+   "% CHANGE": "",
+   "BROKER": "IBKR",
+   "exchange": "Nasdaq"
+ },
+ {
+   "tradingSymbol": "RBLX",
+   "holdPrice": 35.9,
+   "invstQty": 30,
+   "CURRENT PRICE": "",
+   "% CHANGE": "",
+   "BROKER": "IBKR",
+   "exchange": "Nasdaq"
+ },
+ {
+   "tradingSymbol": "AAPL",
+   "holdPrice": 137.04,
+   "invstQty": 20,
+   "CURRENT PRICE": "",
+   "% CHANGE": "",
+   "BROKER": "IBKR",
+   "exchange": "Nasdaq"
+ },
+ {
+   "tradingSymbol": "META",
+   "holdPrice": 227.08,
+   "invstQty": 10,
+   "CURRENT PRICE": "",
+   "% CHANGE": "",
+   "BROKER": "IBKR",
+   "exchange": "Nasdaq"
+ }
+]
+}

@@ -1,0 +1,258 @@
+[
+    {
+        "STOCK": "AAPL",
+        "holdPrice": 151.71,
+        "QTY": 14.74,
+        "CURRENT PRICE": "",
+        "% CHANGE": "",
+        "BROKER": "SYFE"
+    },
+    {
+        "STOCK": "AMZN",
+        "holdPrice": 118.71,
+        "QTY": 5.17,
+        "CURRENT PRICE": "",
+        "% CHANGE": "",
+        "BROKER": ""
+    },
+    {
+        "STOCK": "ARKG",
+        "holdPrice": 35.18,
+        "QTY": 200,
+        "CURRENT PRICE": "",
+        "% CHANGE": "",
+        "BROKER": ""
+    },
+    {
+        "STOCK": "CLR.SI",
+        "holdPrice": 0.848,
+        "QTY": 1171,
+        "CURRENT PRICE": "",
+        "% CHANGE": "",
+        "BROKER": ""
+    },
+    {
+        "STOCK": "COIN",
+        "holdPrice": 49.75,
+        "QTY": 20,
+        "CURRENT PRICE": "",
+        "% CHANGE": "",
+        "BROKER": ""
+    },
+    {
+        "STOCK": "DIS",
+        "holdPrice": 98.88,
+        "QTY": 12,
+        "CURRENT PRICE": "",
+        "% CHANGE": "",
+        "BROKER": ""
+    },
+    {
+        "STOCK": "GOOG",
+        "holdPrice": 121.33,
+        "QTY": 4.285,
+        "CURRENT PRICE": "",
+        "% CHANGE": "",
+        "BROKER": ""
+    },
+    {
+        "STOCK": "META",
+        "holdPrice": 94.98,
+        "QTY": 1.916,
+        "CURRENT PRICE": "",
+        "% CHANGE": "",
+        "BROKER": ""
+    },
+    {
+        "STOCK": "MSFT",
+        "holdPrice": 279.35,
+        "QTY": 4.714,
+        "CURRENT PRICE": "",
+        "% CHANGE": "",
+        "BROKER": ""
+    },
+    {
+        "STOCK": "NFLX",
+        "holdPrice": 166.89,
+        "QTY": 16,
+        "CURRENT PRICE": "",
+        "% CHANGE": "",
+        "BROKER": ""
+    },
+    {
+        "STOCK": "NVDA",
+        "holdPrice": 300.25,
+        "QTY": 1.732,
+        "CURRENT PRICE": "",
+        "% CHANGE": "",
+        "BROKER": ""
+    },
+    {
+        "STOCK": "RBLX",
+        "holdPrice": 26.17,
+        "QTY": 24.053,
+        "CURRENT PRICE": "",
+        "% CHANGE": "",
+        "BROKER": ""
+    },
+    {
+        "STOCK": "TQQQ",
+        "holdPrice": 31.01,
+        "QTY": 80,
+        "CURRENT PRICE": "",
+        "% CHANGE": "",
+        "BROKER": ""
+    },
+    {
+        "STOCK": "TSLA",
+        "holdPrice": 229.79,
+        "QTY": 7,
+        "CURRENT PRICE": "",
+        "% CHANGE": "",
+        "BROKER": ""
+    },
+    {
+        "STOCK": "KWEB",
+        "holdPrice": 67.28,
+        "QTY": 150,
+        "CURRENT PRICE": "",
+        "% CHANGE": "",
+        "BROKER": "IBKR"
+    },
+    {
+        "STOCK": "GRAB",
+        "holdPrice": 10.82,
+        "QTY": 500,
+        "CURRENT PRICE": "",
+        "% CHANGE": "",
+        "BROKER": ""
+    },
+    {
+        "STOCK": "DIS",
+        "holdPrice": 182.6,
+        "QTY": 28,
+        "CURRENT PRICE": "",
+        "% CHANGE": "",
+        "BROKER": ""
+    },
+    {
+        "STOCK": "LCID",
+        "holdPrice": 26.35,
+        "QTY": 50,
+        "CURRENT PRICE": "",
+        "% CHANGE": "",
+        "BROKER": ""
+    },
+    {
+        "STOCK": "SOFI",
+        "holdPrice": 17.91,
+        "QTY": 100,
+        "CURRENT PRICE": "",
+        "% CHANGE": "",
+        "BROKER": ""
+    },
+    {
+        "STOCK": "ARKK",
+        "holdPrice": 120.88,
+        "QTY": 7,
+        "CURRENT PRICE": "",
+        "% CHANGE": "",
+        "BROKER": ""
+    },
+    {
+        "STOCK": "PLTR",
+        "holdPrice": 24.52,
+        "QTY": 100,
+        "CURRENT PRICE": "",
+        "% CHANGE": "",
+        "BROKER": ""
+    },
+    {
+        "STOCK": "CENN",
+        "holdPrice": 6.89,
+        "QTY": 33,
+        "CURRENT PRICE": "",
+        "% CHANGE": "",
+        "BROKER": ""
+    },
+    {
+        "STOCK": "SE",
+        "holdPrice": 152.29,
+        "QTY": 2,
+        "CURRENT PRICE": "",
+        "% CHANGE": "",
+        "BROKER": ""
+    },
+    {
+        "STOCK": "TQQQ",
+        "holdPrice": 59.85,
+        "QTY": 10,
+        "CURRENT PRICE": "",
+        "% CHANGE": "",
+        "BROKER": ""
+    },
+    {
+        "STOCK": "GDLC",
+        "holdPrice": 27.21,
+        "QTY": 10,
+        "CURRENT PRICE": "",
+        "% CHANGE": "",
+        "BROKER": ""
+    },
+    {
+        "STOCK": "SQQQ",
+        "holdPrice": 50.5,
+        "QTY": 2,
+        "CURRENT PRICE": "",
+        "% CHANGE": "",
+        "BROKER": ""
+    },
+    {
+        "STOCK": "BITO",
+        "holdPrice": 31.67,
+        "QTY": 5,
+        "CURRENT PRICE": "",
+        "% CHANGE": "",
+        "BROKER": ""
+    },
+    {
+        "STOCK": "F",
+        "holdPrice": 11.23,
+        "QTY": 52,
+        "CURRENT PRICE": "",
+        "% CHANGE": "",
+        "BROKER": ""
+    },
+    {
+        "STOCK": "INDA",
+        "holdPrice": 44.44,
+        "QTY": 2,
+        "CURRENT PRICE": "",
+        "% CHANGE": "",
+        "BROKER": ""
+    },
+    {
+        "STOCK": "RBLX",
+        "holdPrice": 35.9,
+        "QTY": 30,
+        "CURRENT PRICE": "",
+        "% CHANGE": "",
+        "BROKER": ""
+    },
+    {
+        "STOCK": "AAPL",
+        "holdPrice": 137.04,
+        "QTY": 20,
+        "CURRENT PRICE": "",
+        "% CHANGE": "",
+        "BROKER": ""
+    },
+    {
+        "STOCK": "META",
+        "holdPrice": 227.08,
+        "QTY": 10,
+        "CURRENT PRICE": "",
+        "% CHANGE": "",
+        "BROKER": ""
+    }
+]

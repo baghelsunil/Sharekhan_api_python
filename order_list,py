@@ -1,0 +1,65 @@
+
+from SharekhanApi.sharekhanConnect import SharekhanConnect
+
+import requests
+import base64
+
+api_key = "p5ZoRAd5kLpYsZGh1VVIpXmcAOX4WrWj"
+
+login = SharekhanConnect(api_key)
+state=12345
+vendor_key = ""         # vendor key for vendor login otherwise keep it null
+version_id = ""         # version id= 1005 or 1006 otherwise keep it null
+
+request_token="E1zrx9bXJs+OHSFN2CH2XykUpab5x/1YiRAl0EJFBiP4r5Tw9G7XwtarGiEd2dwCddBI01MbOA==|946423"
+#request_token="Fguf+d7tH/DBE1d74CXgcXYqk+Hf9Kx9jk815yNiZzv4r5Tw9G7XyvsYZaGC7QAYv1cvK4/X7Q=="
+secret_key="wWsdmInxJRK5GTmKSrMH1nlcG2HL2qXu"
+
+#"""Use generate session method when you are passing version id """
+
+session=login.generate_session(request_token,secret_key)
+
+
+
+# Generating access token for version id and pass parameters as it is passed below
+access_token=login.get_access_token(api_key,session,state,versionId=version_id)
+
+#"""Use generate session without version id method when you are not passing version id """
+
+#sessionwithoutvesionId=login.generate_session_without_versionId(request_token,secret_key)
+
+
+print("session id -------------------")
+#print(sessionwithoutvesionId)
+print(session)
+
+
+# Generating access token for without version id
+
+#access_token=login.get_access_token(api_key,sessionwithoutvesionId,state)
+
+print(" access token -------------------")
+print(access_token)
+print("-------------------")
+
+#access_token = "eyJ0eXAiOiJzZWMiLCJhbGciOiJIUzI1NiJ9.eyJqdGkiOiJJNkxrMnFLM3FpZ1RTMFFDR2ZMMzliMXNKZTFEcXMvQUtvbDJkSGNydHNFV3FyZHZuZ3JGWVIvUDRJdXZsZi8rSTQ3YzhUSGgyb2VXdDBZbTdLYndkSDZQNmZLem0yM2FUUFdEZFZPcTRUUTZibElvYXhoTzdlUVhRT1ZMRHQ4OFJwVmpTZWJiRFZFY01SY2l0SnBGUm5VVE9rL1dzRzYwZS9udnVCcE03Zk09IiwiaWF0IjoxNjk5MzYxMTA0LCJleHAiOjE2OTkzODE3OTl9.BhQlUyqoOC_6MYKtdfGy5tD9L8e37qrLbrHCu9qrQIc"
+
+sharekhan = SharekhanConnect(api_key,access_token)
+
+print(sharekhan.requestHeaders())       # for printing request headers
+
+
+# Replace this URL with the one you want to call
+#url = 'https://api.sharekhan.com/skapi/services/reports/946423'
+url = 'https://api.sharekhan.com/skapi/services/holdings/946423'
+
+# Send an HTTP GET request to the URL
+response = requests.get(url)
+
+# Check if the request was successful (status code 200)
+if response.status_code == 200:
+    print('Request was successful!')
+    # Print the content of the response
+    print(response.text)
+else:
+    print(f'Error: Request failed with status code {response.status_code}')

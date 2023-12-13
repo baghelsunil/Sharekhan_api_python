@@ -1,0 +1,49 @@
+
+----------  --------
+Stock       HDFCBANK
+Hold Price  1550.42
+Curr Price  1488.8
+% change    -3.97
+
+----------  --------
+Stock       CAPACITE
+Hold Price  219.4
+Curr Price  236.5
+% change    7.79
+
+----------  ----------
+Stock       DHAMPURSUG
+Hold Price  284.09
+Curr Price  261.35
+% change    -8.0
+
+----------  ------
+Stock       L&TFH
+Hold Price  135.25
+Curr Price  144.4
+% change    6.77
+PROTEAN 830.97
+
+----------  --------
+Stock       DWARKESH
+Hold Price  98.96
+Curr Price  90.65
+% change    -8.4
+
+----------  ---------
+Stock       NIFTYBEES
+Hold Price  216.35
+Curr Price  214.55
+% change    -0.83
+
+----------  ------
+Stock       BCLIND
+Hold Price  53.36
+Curr Price  51.8
+% change    -2.92
+
+----------  ----------
+Stock       BALRAMCHIN
+Hold Price  420.64
+Curr Price  426.35
+% change    1.36
